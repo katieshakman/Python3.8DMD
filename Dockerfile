@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-LABEL maintainer="Field Data Science at Domino Data Lab <support@dominodatalab.com>"
+LABEL maintainer="Field Data Science Team at Domino Data Lab <support@dominodatalab.com>"
 
 ENV DEBIAN_FRONTEND noninteractive
 
